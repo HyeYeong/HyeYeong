@@ -8,11 +8,11 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/react-181717?style=for-the-badge&logo=react&logoColor=#61DAFB"/>
-<img src="https://img.shields.io/badge/next.js-181717?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/next.js-181717?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript-181717?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
 <img src="https://img.shields.io/badge/html5-181717?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
-<img src="https://img.shields.io/badge/sass-181717?style=for-the-badge&logo=sass&logoColor=#CC6699"/>
+<img src="https://img.shields.io/badge/scss-181717?style=for-the-badge&logo=sass&logoColor=#CC6699"/>
 <img src="https://img.shields.io/badge/css3-181717?style=for-the-badge&logo=css3&logoColor=#1572B6"/>
 <img src="https://img.shields.io/badge/jenkins-181717?style=for-the-badge&logo=jenkins&logoColor=#D24939"/>
 <img src="https://img.shields.io/badge/jekyll-181717?style=for-the-badge&logo=jekyll&logoColor=#CC0000"/>
