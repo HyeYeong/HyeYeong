@@ -4,7 +4,6 @@
 🔭 I’m currently working on YUKOYUKO<br/>
 <br/>
 <br/>
----
 ✏️Skills
 <br/>
 <br/>
