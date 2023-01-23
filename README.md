@@ -26,7 +26,7 @@
 <br/>
 🤔Other
 <br/>
-🔗[NOTION 포트폴리오](https://jelly-tapir-28d.notion.site/FE-33c40e0732d7464a86cbc8c7e99c148e)
+
 
 
 <!--
