@@ -26,7 +26,8 @@
 <br/>
 🤔Other
 <br/>
-
+next-app리포지토리로 개발중<br/>
+배포용 사이트 https://hyeyeong.github.io/sakae/
 
 
 <!--
