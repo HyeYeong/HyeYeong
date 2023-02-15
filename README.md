@@ -26,8 +26,11 @@
 <br/>
 🤔Other
 <br/>
-next-app리포지토리로 개발중<br/>
-배포용 사이트 https://hyeyeong.github.io/sakae/
+포트폴리오: next-app 개발중<br/>
+배포용 사이트: https://hyeyeong.github.io/sakae/
+<br/><br/>
+조금씩 업데이트중<br/>
+일상의 기록: https://hyeyeong.github.io/daily-pieces/
 
 
 <!--
