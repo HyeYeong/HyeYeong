@@ -26,11 +26,11 @@
 <br/>
 🤔Other
 <br/>
-포트폴리오: next-app 개발중<br/>
-배포용 사이트: https://hyeyeong.github.io/sakae/
+フォトポリオ(포트폴리오): next-app開発中(개발중)<br/>
+配布用サイト(배포용 사이트): https://hyeyeong.github.io/sakae/
 <br/><br/>
-조금씩 업데이트중<br/>
-일상의 기록: https://hyeyeong.github.io/daily-pieces/
+少しずつUpdate中(조금씩 업데이트중)<br/>
+日常の記録(일상의 기록): https://hyeyeong.github.io/daily-pieces/
 
 
 <!--
