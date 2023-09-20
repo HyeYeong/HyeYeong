@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm HyeYeong!
 
 🖥 I'm front-end developer <br/>
-🔭 I’m currently working on YUKOYUKO<br/>
+🔭 I’m currently working on FRONT-END<br/>
 <br/>
 <br/>
 ✏️Skills
