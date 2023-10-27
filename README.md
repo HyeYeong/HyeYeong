@@ -24,6 +24,9 @@
 <img src="https://img.shields.io/badge/macos-181717?style=for-the-badge&logo=macos&logoColor=#WHITE"/>
 <br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeYeong)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 🤔Other
 <br/>
 フォトポリオ(포트폴리오): next-app開発中(개발중)<br/>
