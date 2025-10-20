@@ -35,7 +35,7 @@
 少しずつUpdate中(조금씩 업데이트중)<br/>
 日常の記録(일상의 기록): https://hyeyeong.github.io/daily-pieces/
 <br/><br/>
-時間計算Utils: https://hyeyeong.github.io/decimal-time-utils/
+<!-- 時間計算Utils: https://hyeyeong.github.io/decimal-time-utils/ -->
 
 
 <!--
